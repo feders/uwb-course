@@ -1,7 +1,3 @@
-## Heading largo
-# Heading middle
-- lista 
-- sklada sie 
-- z elementow 
+# this is onlz a branchcomment 
  
- Pryzklad 'kursywy' w zdaniu 
+ Pryzklad 'kursywy' w zdaniu zostaje 
